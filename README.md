@@ -178,4 +178,3 @@ You’ll also get:
 * Random sample predictions with images and labels
 
 ---
-> “Learning Machine Learning starts with understanding the simplest algorithms — KNN is one of them.” 🧠
